@@ -44,3 +44,8 @@ x = 16'hffff; y = 16'h0001; c_in = 0;
 ```
 
 In this test case, the addition of `x` and `y` results in `0x10000`, causing the `cout` to be 1, indicating an overflow.
+
+### Waveform
+
+![image](https://github.com/Nirvan-Mishra-09/Ripple-Carry-Adder-16-bits-/assets/127642231/addb4be6-c1c3-425f-bf1e-0dc455c5e20f)
+
